@@ -1,0 +1,43 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "home",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "subtitle_hero": "red",
+    "title_hero": "eager",
+    "description_hero": [
+      {
+        "type": "paragraph",
+        "text": "Fugiat qui qui non Lorem minim eiusmod dolore sunt cillum nisi exercitation est pariatur. Exercitation elit amet pariatur officia esse. Pariatur officia qui commodo reprehenderit ullamco esse aute amet elit voluptate irure duis.",
+        "spans": []
+      }
+    ],
+    "label_button": "blew",
+    "url_button": {
+      "link_type": "Web",
+      "url": "http://google.com"
+    },
+    "label_trailer": "bottle",
+    "url_label_trailer": {
+      "link_type": "Web",
+      "url": "https://slicemachine.dev"
+    },
+    "thumbnail_trailer": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869"
+    }
+  }
+}
